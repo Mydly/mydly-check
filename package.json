@@ -1,0 +1,23 @@
+{
+  "name": "mydly-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mydly/mydly-check.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "Mydly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mydly/mydly-check/issues"
+  },
+  "homepage": "https://github.com/Mydly/mydly-check#readme",
+  "dependencies": {}
+}
